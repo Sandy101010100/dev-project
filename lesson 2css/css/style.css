@@ -1,0 +1,95 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body{
+    font-size:2rem;
+    font-family: "Roboto",sans-serif;
+}
+/* p{
+    background-color: lightgray;
+
+}
+.opposite{
+display:inline-block;
+background-color: #333;
+color:whitesmoke;
+margin-top: 100px;
+height:100px;
+padding:4rem;
+} */
+ul{
+    list-style-type: none;
+    padding: 0.5rem;
+    text-align:right;
+    background-color:#000;
+    margin:0;
+}
+li{
+    display:inline-block;
+    margin-inline:0.5rem;
+
+}
+li a{
+    color:#fff;
+    text-decoration:none;
+
+
+}
+li a:hover,li a:focus{
+    text-decoration: underline;
+    color:whitesmoke;
+
+}
+
+/* }
+body{
+    margin:0.5rem;
+   
+
+    
+    font-family: "Roboto",sans-serif;
+
+    text-align: center;
+}
+nav{
+    border:2px solid black;
+    border-radius:2rem;
+margin:2rem auto 0 ;
+    font-size:3rem;
+    line-height: 7rem;
+
+}
+h2{
+    padding:1rem;
+    background-color: gold;
+    border-radius: 2rem 2rem 0 0;
+
+
+}
+ul{
+    list-style-type: none;
+
+}
+li{
+    border-top:2px solid black; */
+
+/* 
+li a{
+    display:block;
+}
+li a,
+li a:visited{
+    text-decoration: none;
+    color: black;
+
+}
+li a:hover,
+li a:focus{
+    background:#333;
+    color:whitesmoke;
+    cursor:pointer;
+}
+li:last-child a{
+    border-radius: 0 0 2rem 2rem;
+} */
+
+
